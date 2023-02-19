@@ -6,3 +6,7 @@ Functions for working with structs
 **StructFieldChanger** позволяет изменить экспортируемые поля структуры.
 
 _______________________________________________________________________________
+
+Результаты работы:
+
+![result1](https://github.com/ellofae/Struct-identifier-and-changer-on-Go/blob/main/img/result1.PNG?raw=true)
